@@ -2,7 +2,7 @@
 ## Descripción
 Este programa se desarrolló en base al ejercicio N°5 de Project Euler que puede ser visualizado en la siguiente página web: https://projecteuler.net/problem=5
 
-El objetivo del programa es obtener el mínimo común múltiplo de un rango de números usando funciones y fue desarrolado como parte del curso Programación de Videojuegos de la carrera Ciencias de la Computación de la UCSP.
+El objetivo del programa es obtener el mínimo común múltiplo de un rango de números usando funciones y fue desarrollado como parte del curso Programación de Videojuegos de la carrera Ciencias de la Computación de la UCSP.
 
 Por el alumno:
 - Alexis Espinoza Villanueva
