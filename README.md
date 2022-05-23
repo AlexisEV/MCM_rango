@@ -1,8 +1,6 @@
-# MCM de un rango de números
+# MCM de un rango de números naturales
 ## Descripción
-Este programa se desarrolló en base al ejercicio N°5 de Project Euler que puede ser visualizado en la siguiente página web: https://projecteuler.net/problem=5
-
-El objetivo del programa es obtener el mínimo común múltiplo de un rango de números usando funciones y fue desarrollado como parte del curso Programación de Videojuegos de la carrera Ciencias de la Computación de la UCSP.
+El objetivo del programa es obtener el mínimo común múltiplo de un rango de números naturales usando funciones y fue desarrollado como parte del curso Programación de Videojuegos de la carrera Ciencias de la Computación de la UCSP.
 
 Por el alumno:
 - Alexis Espinoza Villanueva
@@ -25,7 +23,7 @@ Por el alumno:
     ```
     Ingrese límite superior: 10
     ```
-4. Finalmente, el programa mostrará el resultado del MCM de todos los números dentro del rango ingresado por el usuario. El ejemplo para el rango de números entre 1 y 10 da como resultado 2520.
+4. Finalmente, el programa mostrará el resultado del MCM de todos los números naturales dentro del rango ingresado por el usuario. El ejemplo para el rango de números entre 1 y 10 da como resultado 2520.
 
     ```
     El MCM de los números desde el 1 hasta el 10 es 2520
